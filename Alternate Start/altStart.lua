@@ -71,5 +71,5 @@ function altStart.altStartFunction(pid, altCell,altPosX, altPosY, altPosZ,altRot
     end
 
 end
-
+_G["altStart"] = altStart
 return altStart
